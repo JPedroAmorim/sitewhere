@@ -5,6 +5,20 @@ dependencies {
 	compile project(':sitewhere-mongodb')
 	compile project(':sitewhere-microservice')
 	compile project(':sitewhere-grpc-client')
+	compile project(':service-batch-operations')
+	compile project(':service-command-delivery')
+	compile project(':service-device-management')
+	compile project(':service-device-registration')
+	compile project(':service-device-state')
+	compile project(':service-event-management')
+	compile project(':service-event-search')
+	compile project(':service-event-sources')
+	compile project(':service-inbound-processing')
+	compile project(':service-instance-management')
+	compile project(':service-label-generation')
+	compile project(':service-outbound-connectors')
+	compile project(':service-schedule-management')
+	compile project(':service-streaming-media')
 	
 	// REST template for SCIM access.
     compile group: 'org.springframework', name: 'spring-web'

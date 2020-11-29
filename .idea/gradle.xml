@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/service-asset-management" />
+            <option value="$PROJECT_DIR$/service-batch-operations" />
+            <option value="$PROJECT_DIR$/service-command-delivery" />
+            <option value="$PROJECT_DIR$/service-device-management" />
+            <option value="$PROJECT_DIR$/service-device-registration" />
+            <option value="$PROJECT_DIR$/service-device-state" />
+            <option value="$PROJECT_DIR$/service-event-management" />
+            <option value="$PROJECT_DIR$/service-event-search" />
+            <option value="$PROJECT_DIR$/service-event-sources" />
+            <option value="$PROJECT_DIR$/service-inbound-processing" />
+            <option value="$PROJECT_DIR$/service-instance-management" />
+            <option value="$PROJECT_DIR$/service-label-generation" />
+            <option value="$PROJECT_DIR$/service-outbound-connectors" />
+            <option value="$PROJECT_DIR$/service-rule-processing" />
+            <option value="$PROJECT_DIR$/service-schedule-management" />
+            <option value="$PROJECT_DIR$/service-streaming-media" />
+            <option value="$PROJECT_DIR$/sitewhere-cassandra" />
+            <option value="$PROJECT_DIR$/sitewhere-communication" />
+            <option value="$PROJECT_DIR$/sitewhere-configuration" />
+            <option value="$PROJECT_DIR$/sitewhere-core" />
+            <option value="$PROJECT_DIR$/sitewhere-core-api" />
+            <option value="$PROJECT_DIR$/sitewhere-core-lifecycle" />
+            <option value="$PROJECT_DIR$/sitewhere-grpc-client" />
+            <option value="$PROJECT_DIR$/sitewhere-influxdb" />
+            <option value="$PROJECT_DIR$/sitewhere-microservice" />
+            <option value="$PROJECT_DIR$/sitewhere-mongodb" />
+            <option value="$PROJECT_DIR$/sitewhere-solr" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
